@@ -13,13 +13,6 @@ Espero que gostem. <br/>
 </p>
 
 
-
-<br>
-
-<p align="center">
-  <img alt="projeto link na bio" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
